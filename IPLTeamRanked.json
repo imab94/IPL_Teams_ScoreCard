@@ -1,0 +1,82 @@
+{
+    "Gujarat Titans": {
+        "Total_match": "12",
+        "Won_match": "8",
+        "Lost_match": "4",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "0.761"
+    },
+    "Chennai Super Kings": {
+        "Total_match": "13",
+        "Won_match": "7",
+        "Lost_match": "5",
+        "Tie_match": "0",
+        "No_result": "1",
+        "Net Run Rate": "0.381"
+    },
+    "Mumbai Indians": {
+        "Total_match": "12",
+        "Won_match": "7",
+        "Lost_match": "5",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "-0.117"
+    },
+    "Lucknow Super Giants": {
+        "Total_match": "12",
+        "Won_match": "6",
+        "Lost_match": "5",
+        "Tie_match": "0",
+        "No_result": "1",
+        "Net Run Rate": "0.309"
+    },
+    "Royal Challengers Bangalore": {
+        "Total_match": "12",
+        "Won_match": "6",
+        "Lost_match": "6",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "0.166"
+    },
+    "Rajasthan Royals": {
+        "Total_match": "13",
+        "Won_match": "6",
+        "Lost_match": "7",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "0.140"
+    },
+    "Kolkata Knight Riders": {
+        "Total_match": "13",
+        "Won_match": "6",
+        "Lost_match": "7",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "-0.256"
+    },
+    "Punjab Kings": {
+        "Total_match": "12",
+        "Won_match": "6",
+        "Lost_match": "6",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "-0.268"
+    },
+    "Sunrisers Hyderabad": {
+        "Total_match": "11",
+        "Won_match": "4",
+        "Lost_match": "7",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "-0.471"
+    },
+    "Delhi Capitals": {
+        "Total_match": "12",
+        "Won_match": "4",
+        "Lost_match": "8",
+        "Tie_match": "0",
+        "No_result": "0",
+        "Net Run Rate": "-0.686"
+    }
+}
